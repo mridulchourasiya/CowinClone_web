@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![image](https://github.com/mridulchourasiya/CowinClone_web/assets/99160348/d0e129c5-7acc-4ec6-8c2e-23a1df0e7b70)
+
+
 ## Getting Started
 
 First, run the development server:
